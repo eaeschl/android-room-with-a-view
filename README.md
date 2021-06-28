@@ -1,5 +1,9 @@
 Android Room com View:Kotlin
+================
 https://developer.android.com/codelabs/android-room-with-a-view-kotlin#0
+
+antonio.carvalho@oceanbrasil.com
+deusanyjunior
 
 
 RoomWordsSample
